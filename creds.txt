@@ -1,0 +1,9 @@
+api {
+    web_server: https://clearml.itnap.ru
+    api_server: https://api.clearml.itnap.ru
+    files_server: https://files.clearml.itnap.ru
+    credentials {
+        "access_key" = "K16MT4K3RRJO8QA1B1CR"
+        "secret_key"  = "xelHZVAhzHNUlM2UzLCd1A2bZKYDk8BFLLmqTPdoZl5gx4M9l4"
+    }
+}

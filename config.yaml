@@ -1,0 +1,7 @@
+# Clearml task arguments
+clearml_project: 'test' # help='Project name in Clearml UI'
+clearml_task_name: 'print_smth' # help='Task name in Clearml UI'
+
+data: 'clearml://43642b64407244599997f535e6603af5' # help='dataset.yaml path'
+epochs: 10
+batch_size: 4
